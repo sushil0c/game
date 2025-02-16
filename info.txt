@@ -1,0 +1,21 @@
+Game Accessibility and Touch Controls
+1. Speech Feedback (Announcements)
+• The game uses speech synthesis (SpeechSynthesisUtterance) to announce actions, positions, and status updates.
+• Players receive audio feedback for movement, shooting, reloading, and interacting with the environment.
+2. Touch-Based Controls (No Visual UI Needed)
+• Tap anywhere → Move the player in different directions.
+• Double-tap anywhere → Reloads ammo.
+• Swipe up → Parachute landing.
+• Swipe left/right → Move left/right.
+• Hold touch for a second → Shoot.
+• Long press (2+ sec) → Use health kit.
+• Three-finger tap → Toggle vehicle.
+• Four-finger tap → Switch weapons.
+3. Sound Cues for Game Events
+• Different sound effects for each action (e.g., footsteps, gunshots, warning alerts).
+• Proximity alerts when enemies are near.
+• Safe zone warnings if the player is outside the safe zone.
+4. No Visual Dependency
+• The game does not rely on graphics for blind players.
+• Actions are confirmed through speech and sound effects, making it fully playable without sight.
+Write something...
